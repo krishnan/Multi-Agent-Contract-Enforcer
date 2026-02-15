@@ -271,4 +271,4 @@ The skill is grounded in three bodies of work:
 
 ## License
 
-MIT
+Apache 2.0
